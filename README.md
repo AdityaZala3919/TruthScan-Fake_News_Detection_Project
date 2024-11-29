@@ -27,7 +27,7 @@ TruthScan is an AI tool designed to identify fake news. It processes news articl
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/truthscan.git
+git clone https://github.com/AdityaZala3919/TruthScan-Fake_News_Detection_Project.git
 cd truthscan
 ```
 
