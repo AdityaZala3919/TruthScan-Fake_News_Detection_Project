@@ -43,4 +43,4 @@ python src/app.py
 
 Contact:<br>
 Adityasinh T. Zala<br>
-adityazala404@gmail.com | LinkedIn- [Aditya Zala](www.linkedin.com/in/aditya-zala-1bbb42258/)
+adityazala404@gmail.com | LinkedIn- [Aditya Zala](https://www.linkedin.com/in/aditya-zala-1bbb42258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGSz9neQvRI6fBDuAwodsBw%3D%3D)
